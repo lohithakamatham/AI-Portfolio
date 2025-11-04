@@ -1,0 +1,1 @@
+# Lohitha Kamatham — Vibe Coding Portfolio\nRun locally: npm install && npm run dev

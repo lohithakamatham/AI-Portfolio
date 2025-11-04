@@ -1,0 +1,2 @@
+import Nav from '../components/Nav'
+export default function Tech(){return(<><Nav/><main className='max-w-4xl mx-auto py-12'><h1 className='text-3xl font-bold mb-4'>Tech Stack</h1><ul className='list-disc list-inside'><li>Python, JavaScript, Next.js</li><li>Google Gemini, n8n, LangChain</li><li>React, Tailwind CSS</li></ul></main></>) }

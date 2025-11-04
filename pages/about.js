@@ -1,0 +1,2 @@
+import Nav from '../components/Nav'
+export default function About(){return(<><Nav/><main className='max-w-4xl mx-auto py-12'><h1 className='text-3xl font-bold mb-4'>About Me</h1><p>I’m Lohitha Kamatham, an AI Engineer Intern focused on automation, AI integration, and crafting practical AI web applications during my Vibe Coding internship at ORANTS.</p></main></>) }
